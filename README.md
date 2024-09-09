@@ -22,11 +22,11 @@ The model has successfully achieved an accuracy of **45%** on a challenging set 
 If you use this project in your research or wish to refer to the baseline results, please use the following BibTeX entry:
 
 ```bibtex
-@misc{hangman_rl_meta_2023,
+@misc{hangman_rl_meta_2024,
   author       = {Sayem Khan},
   title        = {{Learning to Learn Hangman}},
   month        = sep,
-  year         = 2023,
+  year         = 2024,
   doi          = {10.5281/zenodo.13737841},
   version      = {v1.0},
   publisher    = {Zenodo},
